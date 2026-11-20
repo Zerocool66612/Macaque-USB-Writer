@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Macaque USB Writer
+Comment=Write bootable ISO and IMG images to USB drives
+Exec=macaque-usb-writer
+Icon=drive-removable-media-usb
+Terminal=false
+Categories=Utility;System;
